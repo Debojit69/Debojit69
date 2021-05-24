@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+	color:;
+}
+p {
+	color:;
+}
+h4 {
+	border-bottom:2px solid black; 
+}
+h6 {
+	color:;
+	margin:5px;
+}
+.divv {
+	height:700px;
+	width:700px;
+	border:5px solid black;
+	box-align:center;
+	margin: 0 auto;
+}
+#he {
+	width:700px;
+	height:100px;
+	padding:0px;
+	margin:0px;
+	border-bottom:5px solid;
+}
+hr {
+	padding:0px;
+	margin:0px;
+}
+#by {
+	border-bottom:2px solid;
+}
+#yeet {
+	border-bottom:2px solid;
+}
+#cece {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
